@@ -1,4 +1,4 @@
-import scrap_mod
+from scrap_yahoo import get_forex_rate
 
 if __name__ == '__main__':
-    print(scrap_mod.get_forex_rate('HKD','USD'))
+    print(get_forex_rate('HKD', 'USD'))

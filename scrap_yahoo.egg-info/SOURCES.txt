@@ -1,4 +1,7 @@
 setup.py
+scrap_yahoo/__init__.py
+scrap_yahoo/main.py
+scrap_yahoo/scrap_mod.py
 scrap_yahoo.egg-info/PKG-INFO
 scrap_yahoo.egg-info/SOURCES.txt
 scrap_yahoo.egg-info/dependency_links.txt
